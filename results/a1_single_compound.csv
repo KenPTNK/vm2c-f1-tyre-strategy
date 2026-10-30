@@ -1,0 +1,4 @@
+compound,n_star,m_star,cliff_binds,best,T
+S,15.81,3.16,True,S13+S13+S12+S12,4132.6
+M,22.36,2.24,False,M25+M25,4135.0
+H,31.62,1.58,False,H25+H25,4155.0
