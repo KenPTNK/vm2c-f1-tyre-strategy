@@ -8,7 +8,6 @@
 [![tests](https://github.com/KenPTNK/vm2c-f1-tyre-strategy/actions/workflows/tests.yml/badge.svg)](https://github.com/KenPTNK/vm2c-f1-tyre-strategy/actions/workflows/tests.yml)
 ![python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![license](https://img.shields.io/badge/license-MIT-green)
-![award](https://img.shields.io/badge/VM%C2%B2C%202026-Gi%E1%BA%A3i%20Nh%C3%AC-E8002D)
 
 [English](README.md) · **Tiếng Việt** · Bài báo: [Phần A (VI)](papers/phan-a-vi.pdf) · [Phần B (VI)](papers/phan-b-vi.pdf) · [Part A (EN)](papers/part-a-en.pdf) · [Part B (EN)](papers/part-b-en.pdf)
 
@@ -304,7 +303,7 @@ tests/            51 phép kiểm so với bài báo
 <a id="đội-thi"></a>
 ## Đội thi, trích dẫn, giấy phép
 
-**Đội 2026024 · Giải Nhì VM²C 2026:** Phạm Hiến Minh, Nguyễn Khắc Trung Kiên, Phan Tấn Phát, Đoàn Văn Quyết.
+**Đội 2026024, VM²C 2026:** Phạm Hiến Minh, Nguyễn Khắc Trung Kiên, Phan Tấn Phát, Đoàn Văn Quyết.
 Kỳ thi do [VIASM](https://viasm.edu.vn) và IEG Foundation tổ chức. Đề bài và dữ liệu 20 đường đua thuộc về Ban Tổ chức.
 
 Trích dẫn (BibTeX) và tài liệu tham khảo: xem [README tiếng Anh](README.md#team).

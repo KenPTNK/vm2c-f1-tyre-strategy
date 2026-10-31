@@ -8,7 +8,6 @@
 [![tests](https://github.com/KenPTNK/vm2c-f1-tyre-strategy/actions/workflows/tests.yml/badge.svg)](https://github.com/KenPTNK/vm2c-f1-tyre-strategy/actions/workflows/tests.yml)
 ![python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![license](https://img.shields.io/badge/license-MIT-green)
-![award](https://img.shields.io/badge/VM%C2%B2C%202026-Second%20Prize-E8002D)
 
 **English** · [Tiếng Việt](README.vi.md) · Papers: [Part A (EN)](papers/part-a-en.pdf) · [Part B (EN)](papers/part-b-en.pdf) · [Phần A (VI)](papers/phan-a-vi.pdf) · [Phần B (VI)](papers/phan-b-vi.pdf)
 
@@ -324,7 +323,7 @@ tests/            51 checks against the papers
 <a id="team"></a>
 ## Team, citation, licence
 
-**Team 2026024 · Second Prize, VM²C 2026:** Phạm Hiến Minh, Nguyễn Khắc Trung Kiên, Phan Tấn Phát, Đoàn Văn Quyết.
+**Team 2026024, VM²C 2026:** Phạm Hiến Minh, Nguyễn Khắc Trung Kiên, Phan Tấn Phát, Đoàn Văn Quyết.
 The competition is organised by [VIASM](https://viasm.edu.vn) and IEG Foundation. The problem statement and the 20-track data belong to the organisers.
 
 ```bibtex
